@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dora idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dora Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dora Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-246,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dora Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dora Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/doraPNG",
+	"position": [
+		15,
+		100
+	],
+	"healthicon": "doraexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

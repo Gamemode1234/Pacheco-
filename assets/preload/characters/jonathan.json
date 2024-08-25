@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownBf0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftBF0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpBf0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightBf0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-31
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LeftBfMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-58
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownBfMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				47
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpBfMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RightBfmiss0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CustomBF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jonathan",
+	"flip_x": true,
+	"healthbar_colors": [
+		73,
+		168,
+		220
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
