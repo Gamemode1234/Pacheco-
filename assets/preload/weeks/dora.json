@@ -1,0 +1,32 @@
+{
+	"storyName": "Dora la exploradora",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"marquez",
+			"dora1",
+			[
+				102,
+				196,
+				254
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "dora",
+	"hiddenUntilUnlocked": false
+}
